@@ -17,6 +17,13 @@
 ## Como Usar
 ### Siga os passos abaixo para configurar e usar o comando bash personalizado:
 
+Execute o comando curl ou siga o passo a passo.
+
+````
+sudo curl -o /usr/local/bin/genstr https://raw.githubusercontent.com/1MarcosAquino/structure_folder/refs/heads/main/structure.sh && sudo chmod +x /usr/local/bin/genstr
+````
+
+
 1. Crie um arquivo.sh
 
 2. Copie o conteudo do arquivo structure.sh e cole no arquivo.sh que você criou.
