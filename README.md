@@ -1,6 +1,6 @@
 # Folder Structure Generator
 
-#### Esse Projeto foi criado para funcionar como um comando bash personalizado. Ao executar o comando **genstr** no diretorio raiz do projeto será criado um arquivo markdown com a estrutura de pastas do diretório. 
+Esse Projeto foi criado para funcionar como um comando bash personalizado. Ao executar o comando **genstr** no diretorio raiz do projeto será criado um arquivo markdown com a estrutura de pastas do diretório. 
 
 ### Exemplo de Structure.md
 ````md
@@ -34,7 +34,7 @@ chmod +x arquivo.sh
 
 ````shell
 
-sudo mv arquivo.sh /usr/local/bin/genstr
+sudo mv arquivo.sh $HOME/bin/genstr
 
 ````
 
